@@ -16,7 +16,7 @@ const AuthPage = () => {
 
                         <Box border={"1px solid gray"} borderRadius={4} padding={5} alignContent={"center"}>
 
-                            <Image src="..\public\logo.png" />
+                            <Image src="/logo.png" />
 
                             <Input placeholder="Enter your Name" padding={2} margin={3}></Input>
                             <Input placeholder='Enter password' type='password' padding={2} margin={3}></Input>
