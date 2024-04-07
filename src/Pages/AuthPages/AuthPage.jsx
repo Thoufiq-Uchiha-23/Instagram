@@ -38,7 +38,7 @@ const AuthPage = () => {
                             <Box border={"1px solid gray"} borderRadius={4} padding={5} alignContent={"center"}>
 
                                 Don't have an account ?
-                                <Button as={"a"} href="/register" color={'white'} padding={2} mx={4} background={'blue'}>Sign in </Button>
+                                <Button as={"a"} href="/register" color={'white'} padding={2} margin={4} background={'blue'}>Sign in </Button>
                             </Box>
 
 
